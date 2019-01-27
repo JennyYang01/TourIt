@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "368498439383",
+    "firebase_url": "https://rock-logic-229819.firebaseio.com",
+    "project_id": "rock-logic-229819",
+    "storage_bucket": "rock-logic-229819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368498439383:android:7d3a72b364318d80",
+        "android_client_info": {
+          "package_name": "com.example.jenniferyang.deltahacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368498439383-fvab5ernoji6526gkoud2fogkpp4p4r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jenniferyang.deltahacks",
+            "certificate_hash": "ca2bc26473fcd84667b11d8ac02c9d3ffe6e931e"
+          }
+        },
+        {
+          "client_id": "368498439383-3tp9bs0ej57r1ftqdeg2efqj1ak9bgoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0mBtWKgbehnIC95MczRA7GHDBFvjN2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368498439383-3tp9bs0ej57r1ftqdeg2efqj1ak9bgoe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368498439383-3cogdpjn49k58od0skdn7dqqr0l82bd9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jenniferyang.deltahacks"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
